@@ -1,0 +1,24 @@
+body
+{
+    height: auto;
+    width: auto ;
+
+
+}
+
+.navbar
+
+{
+    height: 3cm;
+    border-bottom: 2px solid rgb(218, 111, 5);
+}
+
+h5
+{
+    color: black;
+}
+
+p
+{
+    color: black;
+}
